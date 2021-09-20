@@ -1,0 +1,7 @@
+C:\Users\deadr\source\repos\Olympic\Olympic\bin\Debug\Olympic.exe.config
+C:\Users\deadr\source\repos\Olympic\Olympic\bin\Debug\Olympic.exe
+C:\Users\deadr\source\repos\Olympic\Olympic\bin\Debug\Olympic.pdb
+C:\Users\deadr\source\repos\Olympic\Olympic\obj\Debug\Olympic.csprojAssemblyReference.cache
+C:\Users\deadr\source\repos\Olympic\Olympic\obj\Debug\Olympic.csproj.CoreCompileInputs.cache
+C:\Users\deadr\source\repos\Olympic\Olympic\obj\Debug\Olympic.exe
+C:\Users\deadr\source\repos\Olympic\Olympic\obj\Debug\Olympic.pdb
